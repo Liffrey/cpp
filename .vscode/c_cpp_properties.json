@@ -5,10 +5,9 @@
         "includePath":
         [
              "${workspaceFolder}/**",
-             "G:\\OpenCV\\opencv\\build\\install\\include"
+             "G:\\OpenCV\\opencv\\build\\install\\include\\"
         ],
         "defines": [],
-        "compilerPath": "G:\\MinGW\\bin\\gpp",
         "cStandard": "c11",
         "cppStandard": "c++17",
         "intelliSenseMode": "msvc-x64"
